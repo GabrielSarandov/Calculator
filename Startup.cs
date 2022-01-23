@@ -37,7 +37,7 @@ namespace GitExercise
                     break;
             }
 
-            Console.WriteLine("Pres any key to close the app...");
+            Console.WriteLine("Press any key to close the app...");
             Console.ReadKey(true);
         }
     }
